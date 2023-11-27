@@ -10,4 +10,4 @@ print(type(name),name)
 # Sequence data types
 # item collection
 data = [1,2,3,4,'thin','ei','san']
-print(data)
+print(data , type(data))
